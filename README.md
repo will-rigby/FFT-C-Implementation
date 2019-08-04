@@ -1,2 +1,4 @@
 # FFT-C-Implementation
- Implementation of Good-Thomas and Cooley-Tukey FFT algorithms
+ Implementation of Discrete Time Fourier Transform, Good-Thomas FFT and Cooley-Tukey FFT algorithms, originally done for UQ 4th Year Electrical Engineering course on Digital Signal Processing.
+
+ Implemented in C and Matlab using dynamic memory. Will possibly rewrite with fixed memory sizes down the track.
