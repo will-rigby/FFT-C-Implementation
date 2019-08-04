@@ -3,4 +3,4 @@
 
  Implemented in C and Matlab using dynamic memory. Will possibly rewrite with fixed memory sizes down the track.
 
-![FFT Comparison](https://raw.githubusercontent.com/will-rigby/FFT-C-Implementation/blob/master/FFT Comparison.bmp)
+![FFT Comparison](https://raw.githubusercontent.com/will-rigby/FFT-C-Implementation/blob/master/FFTComparison.bmp)
